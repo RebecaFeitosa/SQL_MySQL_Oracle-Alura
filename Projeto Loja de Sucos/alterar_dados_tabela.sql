@@ -1,6 +1,6 @@
 USE sucos;
 
--- Os dados dOs produtos: 544931 E 1078680 não estão corretos, está diferente na planilha, para editar:
+-- Os dados dos produtos: 544931 E 1078680 não estão corretos, está diferente na planilha, para editar:
 UPDATE tbproduto SET EMBALAGEM = 'Lata', PRECO_LISTA = 2.46
 WHERE PRODUTO = '544931';
 
