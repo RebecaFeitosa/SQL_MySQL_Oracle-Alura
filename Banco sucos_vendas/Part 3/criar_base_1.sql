@@ -1,0 +1,6 @@
+-- Criando base de dados
+CREATE DATABASE LIBRARY;
+CREATE DATABASE LIBRARY2;
+
+-- Apagando base de dados
+DROP DATABASE LIBRARY2;
